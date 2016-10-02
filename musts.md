@@ -1,4 +1,4 @@
-# must read/do/watch list
+# must do/read/watch list
 
 I love to read, watch, listen and talk about software engineering, we all do right? :D
 
