@@ -24,5 +24,5 @@ Have suggestions? [@gillchristian](https://twitter.com/gillchristian) :D
 
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
-  Follow's up to the previous curse, Dan introduces many good practices for building React/Redux apps.
+  Follow up to the previous course, Dan introduces many good practices for building React/Redux apps.
 
