@@ -13,7 +13,7 @@
   - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 - Functional
-  - [Professor Frisby Functinal Series](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  - [Professor Frisby Mostly Adequate Guide to Functinal Programming in JS](https://github.com/MostlyAdequate/mostly-adequate-guide)
   
 - Systems
 
