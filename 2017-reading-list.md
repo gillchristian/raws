@@ -1,6 +1,9 @@
 # 2017 reading list :books:
 
+
 - Elm
+
+- [Pro GIT](https://git-scm.com/book/en/v2). 
 
 - Go
   - [Documentation](https://golang.org/doc/)
@@ -9,7 +12,7 @@
   - [Writing Web Applications](https://golang.org/doc/articles/wiki/)
   - [The Go Programming Language Specification](https://golang.org/ref/spec)
 
-- JS
+- JavaScript
   - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 - Functional
