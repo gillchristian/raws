@@ -6,13 +6,12 @@
   - Official Golang site articles
 
 - JS
-  - Modular JS - Pony Foo
-  - You Don't Know JS
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 - Functional
   - [Professor Frisby Functinal Series](https://github.com/MostlyAdequate/mostly-adequate-guide)
   
- - Systems
+- Systems
 
 - Networking
 
