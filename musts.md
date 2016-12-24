@@ -10,6 +10,7 @@ Have suggestions? [@gillchristian](https://twitter.com/gillchristian) :D
 
 - [The Twelve Factor App](https://12factor.net/) The top item in the whole list, really a *MUST* for anybody building web.
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) How git internals work.
+- [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
 ## front-end
 
@@ -18,4 +19,3 @@ Have suggestions? [@gillchristian](https://twitter.com/gillchristian) :D
 - [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux) Dan Abramov's walk through Redux library.
 
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) Follow up to the previous course, Dan introduces many good practices for building React/Redux apps.
-
