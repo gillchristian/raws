@@ -10,9 +10,9 @@
   - You Don't Know JS
 
 - Functional
-  - Professor Frisby Functinal Series
-
-- Systems
+  - [Professor Frisby Functinal Series](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  
+ - Systems
 
 - Networking
 
