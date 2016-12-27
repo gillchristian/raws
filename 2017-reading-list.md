@@ -14,10 +14,10 @@
   - [ ] [The Go Programming Language Specification](https://golang.org/ref/spec).
 
 - **JavaScript**
-  - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 - **Functional**
-  - [ ] [Professor Frisby Mostly Adequate Guide to Functional Programming in JS](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  - [ ] [Professor Frisby Mostly Adequate Guide to Functional Programming in JS](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 - **Systems**
   - [ ] [The little book about OS development](http://littleosbook.github.io/).
