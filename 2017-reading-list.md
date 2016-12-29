@@ -17,7 +17,9 @@
   - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 - **Functional**
+  - [ ] [Functional Light JS](https://github.com/getify/Functional-Light-JS)
   - [ ] [Professor Frisby Mostly Adequate Guide to Functional Programming in JS](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  - [ ] [Folktale by Example](http://docs.folktalejs.org/en/latest/book/index.html)
 
 - **Systems**
   - [ ] [The little book about OS development](http://littleosbook.github.io/).
