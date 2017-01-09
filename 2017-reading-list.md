@@ -1,8 +1,5 @@
 # 2017 reading list :books:
 
-- **GIT**
-  - [ ] [Pro GIT](https://git-scm.com/book/en/v2).
-
 - **Elm**
   - [ ] [Elm Tutorial](https://www.elm-tutorial.org/en/). Developing SPAs with Elm.
 
@@ -12,6 +9,7 @@
   - [ ] [Effective Go](https://golang.org/doc/effective_go.html).
   - [ ] [Writing Web Applications](https://golang.org/doc/articles/wiki/).
   - [ ] [The Go Programming Language Specification](https://golang.org/ref/spec).
+  - [ ] [The Go Programming Language](http://www.gopl.io/). _Book_
 
 - **JavaScript**
   - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -27,3 +25,7 @@
 - **Networking**
 
 - **Data Structures**
+
+- **GIT**
+  - [ ] [Pro GIT](https://git-scm.com/book/en/v2).
+
