@@ -26,6 +26,8 @@
 
 - **Data Structures**
 
+- **Compilers**
+
 - **GIT**
   - [ ] [Pro GIT](https://git-scm.com/book/en/v2).
 
