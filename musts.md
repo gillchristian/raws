@@ -8,9 +8,14 @@ Have suggestions? [@gillchristian](https://twitter.com/gillchristian) :D
 
 ## general
 
-- [The Twelve Factor App](https://12factor.net/) The top item in the whole list, really a *MUST* for anybody building web.
+- [The Twelve Factor App](https://12factor.net/) The top item in the whole list, really a *MUST* for anybody building for the web.
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) How git internals work.
-- [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+
+## paradigms and languages
+
+- Professor Frisby Functional JavaScript:
+  - [Egghead series](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+  - [Book](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 ## front-end
 
