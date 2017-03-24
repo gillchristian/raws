@@ -17,6 +17,7 @@ Have suggestions? [@gillchristian](https://twitter.com/gillchristian) :D
 - Professor Frisby Functional JavaScript:
   - [Egghead series](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
   - [Book](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- [Functional Programming Design Patterns](http://fsharpforfunandprofit.com/fppatterns/): functions, functions and more functions! A great talk by [@ScottWlaschin](https://twitter.com/ScottWlaschin).
 
 ## front-end
 
