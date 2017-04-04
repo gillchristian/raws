@@ -41,9 +41,6 @@ sudo apt-get install -y spotify-client ;
 # node version manager
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | zsh ;
 
-# golang version manager
-zsh < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer) ;
-
 # yarn pkg
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - ;
 echo "deb http://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list ;
@@ -54,7 +51,6 @@ sudo apt-get -y update && sudo apt-get install -y yarn ;
 wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh ;
 chsh -s `which zsh`;
 sudo shutdown -r 0 ;
-
 
 ###########################
 # setup env - langs - etc #
@@ -68,7 +64,4 @@ mkdir ~/dev/go/bin ~/dev/go/src ;
 
 echo "# golang's $GOPATH"  >> ~/.zshrc ;
 echo 'export GOPATH="$HOME/dev/go"' >> ~/.zshrc ;
-echo 'export PATH="$PATH:$GOPATH/bin"' >> ~/.zshrc ;
-
-# vimrc
-curl https://raw.githubusercontent.com/gillchristian/raws/master/dotfiles/.vimrc > ~/.vimrc
+echo 'export PATH="$PATH:$GOPATH/bin"' >> ~/.zshrc 
