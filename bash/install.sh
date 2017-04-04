@@ -4,24 +4,24 @@
 # Upgrade & update #
 ####################
 
-sudo ap-get upgrade && sudo apt-get update ;
+sudo apt-get upgrade && sudo apt-get update ;
 
 #############################
 # Install required packages #
 #############################
 
-sudo atp-get install -y gufw ubuntu-restricted-extras ffmpeg gxine libdvdread4 icedax tagtool libdvd-pkg easytag id3tool lame libxine2-ffmpeg ;
+sudo apt-get install -y gufw ubuntu-restricted-extras ffmpeg gxine libdvdread4 icedax tagtool libdvd-pkg easytag id3tool lame libxine2-ffmpeg ;
 
-sudo atp-get install -y nautilus-script-audio-convert libmad0 mpg321 libavcodec-extra gstreamer1.0-libav p7zip-rar p7zip-full unace unrar zip unzip sharutils rar uudeview mpack arj cabextract file-roller ;
+sudo apt-get install -y nautilus-script-audio-convert libmad0 mpg321 libavcodec-extra gstreamer1.0-libav p7zip-rar p7zip-full unace unrar zip unzip sharutils rar uudeview mpack arj cabextract file-roller ;
 
 # git - vim - zsh - git-core
-sudo atp-get install -y git vim zsh git-core ;
+sudo apt-get install -y git vim zsh git-core ;
 
 # indicator multiload
-sudo atp-get install -y indicator-multiload ;
+sudo apt-get install -y indicator-multiload ;
 
 # bison - curl - mercurial - make - binutils - gcc - build-essential
-sudo atp-get install -y bison curl mercurial make binutils gcc build-essential ;
+sudo apt-get install -y bison curl mercurial make binutils gcc build-essential ;
 
 # golang
 sudo add-apt-repository ppa:ubuntu-lxc/lxd-stable ;
