@@ -1,8 +1,5 @@
 # 2017 reading list :books:
 
-- **Elm**
-  - [ ] [Elm Tutorial](https://www.elm-tutorial.org/en/). Developing SPAs with Elm.
-
 - **Go**
   - [ ] [The Go Programming Language](http://www.gopl.io/). _Book_
   - [ ] [Documentation](https://golang.org/doc/).
@@ -13,8 +10,7 @@
 
 - **Functional**
   - [x] [Professor Frisby Mostly Adequate Guide to Functional Programming in JS](https://github.com/MostlyAdequate/mostly-adequate-guide)
-  - [ ] [Functional Light JS](https://github.com/getify/Functional-Light-JS)
-  - [ ] [Folktale by Example](http://docs.folktalejs.org/en/latest/book/index.html)
+  - [ ] [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/).
 
 - **Systems**
   - [ ] [The little book about OS development](http://littleosbook.github.io/).
