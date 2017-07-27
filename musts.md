@@ -3,6 +3,7 @@
 - [The Twelve Factor App](https://12factor.net/) The top item in the whole list, really a *MUST* for anybody building for the web.
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) How git internals work.
 - [How I baceme a better programmer](http://jlongster.com/How-I-Became-Better-Programmer). [James Long](https://twitter.com/jlongster)'s tips on _how to become a better programmer_.
+- [Metaphors We Compute By](http://queue.acm.org/detail.cfm?id=3127495): [Alvaro Videla](https://twitter.com/old_sound) explains the importance of metaphors in programming.
 
 ## paradigms and languages
 
