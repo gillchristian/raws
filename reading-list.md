@@ -5,6 +5,7 @@
 - 🔜 [Land of LISP](http://landoflisp.com/)
 - 🔜 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com)
 - 🔜 [Clojure for the brave and true](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
+- 🔜 [Game programming patterns](http://gameprogrammingpatterns.com/contents.html)
 - ✔ [Professor Frisby Mostly Adequate Guide to Functional Programming in JS](https://github.com/MostlyAdequate/mostly-adequate-guide)
   
 **Unix terminal**
