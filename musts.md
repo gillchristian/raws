@@ -8,6 +8,7 @@
 ## architecture
 
 - [The Twelve Factor App](https://12factor.net/): really a *MUST* for anybody building for the web.
+- [Scaling React Server-Side Rendering](http://arkwright.github.io/scaling-react-server-side-rendering.html): in-depth look at several problems faced when scaling a React SSR service.
 
 ## internals
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out): how git internally work.
