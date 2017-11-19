@@ -1,7 +1,8 @@
 **Programming**
 
 - ⏳ [The Go Programming Language](http://www.gopl.io/)
-- ⏳ [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/)
+- ⏳ [Haskell Programming from first principles](http://haskellbook.com/)
+- 🔜 [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/)
 - 🔜 [Land of LISP](http://landoflisp.com/)
 - 🔜 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com)
 - 🔜 [Clojure for the brave and true](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
