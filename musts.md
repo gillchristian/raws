@@ -3,6 +3,7 @@
 - [Learning how to learn](http://thejameskyle.com/learning-how-to-learn): [James Kyle](https://twitter.com/thejameskyle) on how valuable is the avility to learn.
 - [Metaphors We Compute By](http://queue.acm.org/detail.cfm?id=3127495): [Alvaro Videla](https://twitter.com/old_sound) explains the importance of metaphors in programming.
 - [Functional Programming Design Patterns](http://fsharpforfunandprofit.com/fppatterns/): functions! A great talk by [Scott Wlaschin](https://twitter.com/ScottWlaschin).
+- [Pure UI](https://rauchg.com/2015/pure-ui): the view as a pure representatin of the data by [Guillermo Rauch](https://twitter.com/rauchg).
 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html): thinking UIs as composable components.
 
 ## architecture
