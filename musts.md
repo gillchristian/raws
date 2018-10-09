@@ -1,6 +1,6 @@
 ## food for thought
 - [How I baceme a better programmer](http://jlongster.com/How-I-Became-Better-Programmer). [James Long](https://twitter.com/jlongster)'s tips on _how to become a better programmer_.
-- [Learning how to learn](http://thejameskyle.com/learning-how-to-learn): [James Kyle](https://twitter.com/thejameskyle) on how valuable is the avility to learn.
+- [Learning how to learn](http://thejameskyle.com/learning-how-to-learn): [James Kyle](https://twitter.com/thejameskyle) on how valuable is the ability to learn.
 - [Metaphors We Compute By](http://queue.acm.org/detail.cfm?id=3127495): [Alvaro Videla](https://twitter.com/old_sound) explains the importance of metaphors in programming.
 - [Dealing with Hard Problems](https://artofproblemsolving.com/articles/hard-problems).
 - [Functional Programming Design Patterns](http://fsharpforfunandprofit.com/fppatterns/): functions! A great talk by [Scott Wlaschin](https://twitter.com/ScottWlaschin).
